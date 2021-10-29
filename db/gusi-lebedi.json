@@ -1,64 +1,64 @@
 [
   {
     "id": "gl01",
-    "name": "Пельмени теленок с поросем",
-    "description": "Настоящие самолепные пельмени из пушистого теста на деревенских желтках и сметане",
+    "name": "Dumplings calf with piglet",
+    "description": "Real self-made dumplings made from fluffy dough on rustic yolks and sour cream",
     "price": 390,
     "image": "img/gusi-lebedi/dumplings.jpg"
   },
   {
     "id": "gl02",
-    "name": "Плов",
-    "description": "Плов на углях из правильного риса с бараниной, пряностями и овощами на курдючном жире",
+    "name": "Pilaf",
+    "description": "Pilaf on charcoal from regular rice with lamb, spices and vegetables on fat tail",
     "price": 520,
     "image": "img/gusi-lebedi/plov.jpg"
   },
   {
     "id": "gl03",
-    "name": "Цыпленок на вертеле",
-    "description": "Подается на лаваше со свежим томатом и огурцом, с маринованным луком и с шашлычным соусом",
+    "name": "Spit Chicken",
+    "description": "Served on pita bread with fresh tomato and cucumber, pickled onions and kebab sauce",
     "price": 490,
     "image": "img/gusi-lebedi/chick.jpg"
   },
   {
     "id": "gl04",
-    "name": "Суп Курочка ряба",
-    "description": "Кура тушка, морковь, макароны, зелень, яйцо, соль, специи.",
+    "name": "Chicken Ryaba soup",
+    "description": "Chicken carcass, carrots, pasta, herbs, egg, salt, spices",
     "price": 140,
     "image": "img/gusi-lebedi/chicken-soup.jpg"
   },
   {
     "id": "gl05",
-    "name": "Отбивная из поросенка",
-    "description": "Толстый кусок парной свинины с томатами и грибами под сырной корочкой",
+    "name": "Pig Chop",
+    "description": "A thick piece of steamed pork with tomatoes and mushrooms under a cheese crust",
     "price": 490,
     "image": "img/gusi-lebedi/pig-chop.jpg"
   },
   {
     "id": "gl06",
-    "name": "Теленок в сливочном соусе",
-    "description": "Теленок с шампиньонами и луком обжаривается в сливочно-сметанном соусе с картофельным пюре и солеными огурчиками.",
+    "name": "Calf in a creamy sauce",
+    "description": "Calf with mushrooms and onions fried in a creamy sour cream sauce with mashed potatoes and pickles",
     "price": 530,
     "image": "img/gusi-lebedi/calf-sauce.jpg"
   },
   {
     "id": "gl07",
-    "name": "Судак запеченный",
-    "description": "Филе судака с картошкой, деревенской сметаной, травами и луком",
+    "name": "Baked pike perch",
+    "description": "Pike perch fillet with potatoes, village sour cream, herbs and onions",
     "price": 490,
     "image": "img/gusi-lebedi/zander.jpg"
   },
   {
     "id": "gl08",
-    "name": "Мурманские кальмары",
-    "description": "Мурманские кальмары с чесночным маслом",
+    "name": "Murmansk squids",
+    "description": "Murmansk squid with garlic oil",
     "price": 420,
     "image": "img/gusi-lebedi/squid.jpg"
   },
   {
     "id": "gl09",
-    "name": "Щучья уха на карасях",
-    "description": "Наваристая походная уха на четырех рыбах, лаврухе, перце и луке с водкой.",
+    "name": "Pike ear on crucian carp",
+    "description": "Rich marching fish soup with four fish, lavrukh, pepper and onion with vodka",
     "price": 380,
     "image": "img/gusi-lebedi/ear.jpg"
   }

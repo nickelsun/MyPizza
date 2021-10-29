@@ -1,43 +1,43 @@
 [
   {
     "id": "pb01",
-    "name": "Пицца от Шеф-повара",
-    "description": "Сыр моцарелла, помидоры, салями, бекон, сыр пармезан, зелень, ветчина",
+    "name": "Pizza from the Chef",
+    "description": "Mozzarella cheese, tomatoes, salami, bacon, parmesan cheese, herbs, ham",
     "price": 638,
     "image": "img/pizza-burger/pizza-dacha.jpg"
   },
   {
     "id": "pb02",
-    "name": "Пицца Мясное ассорти",
-    "description": "Сыр моцарелла, фирменный соус, помидоры, куриная грудка, бекон, свинина, говядина, зелень",
+    "name": "Pizza Meat platter",
+    "description": "Mozzarella cheese, branded sauce, tomatoes, chicken breast, bacon, pork, beef, herbs",
     "price": 693,
     "image": "img/pizza-burger/pizza-meat.jpg"
   },
   {
     "id": "pb03",
-    "name": "Пицца Деревенская",
-    "description": "Сыр моцарелла, пицца соус, чеснок, сыр пармезан, шампиньоны, помидоры, зелень, лук, курица, бекон, ветчина, пепперони",
+    "name": "Pizza Rustic",
+    "description": "Mozzarella cheese, pizza sauce, garlic, parmesan cheese, mushrooms, tomatoes, herbs, onion, chicken, bacon, ham, pepperoni",
     "price": 705,
     "image": "img/pizza-burger/pizza-village.jpg"
   },
   {
     "id": "pb04",
-    "name": "Пицца Цезарь",
-    "description": "Соус Цезарь, куриная грудка, сыр пармезан, моцарелла, гренки, помидоры, салат айсберг",
+    "name": "Pizza Caesar",
+    "description": "Caesar sauce, chicken breast, parmesan cheese, mozzarella, croutons, tomatoes, iceberg lettuce",
     "price": 759,
     "image": "img/pizza-burger/pizza-caesar.jpg"
   },
   {
     "id": "pb05",
-    "name": "Пицца Пепперони",
-    "description": "Сыр моцарелла, пицца соус, шампиньоны, пепперони",
+    "name": "Pepperoni pizza",
+    "description": "Mozzarella cheese, pizza sauce, mushrooms, pepperoni",
     "price": 475,
     "image": "img/pizza-burger/pizza-pepperoni.jpg"
   },
   {
     "id": "pb06",
-    "name": "Пицца Дачная",
-    "description": "Сыр моцарелла, пицца соус, бекон, картофель фри, куриная грудка, помидоры, пепперони, ветчина, зелень",
+    "name": "Pizza Country",
+    "description": "Mozzarella cheese, pizza sauce, bacon, french fries, chicken breast, tomato, pepperoni, ham, herbs",
     "price": 649,
     "image": "img/pizza-burger/pizza-dacha.jpg"
   }

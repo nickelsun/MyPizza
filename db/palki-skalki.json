@@ -1,43 +1,43 @@
 [
   {
     "id": "ps01",
-    "name": "Комбо 3 пиццы",
-    "description": "Пепперони, Чикен Барбекю, Капричеза",
+    "name": "Combo 3 pizzas",
+    "description": "Pepperoni, Chicken BBQ, Capricheza",
     "price": 899,
     "image": "img/palki-skalki/combo.jpg"
   },
   {
     "id": "ps02",
-    "name": "Пицца Римская",
-    "description": "30 см. Корнишоны, томатный соус, колбаса, красный лучок, сыр моцарелла, помидоры Черри, зелень.",
+    "name": "Pizza roman",
+    "description": "30 cm Gherkins, tomato sauce, sausage, red onion, mozzarella cheese, Cherry tomatoes, herbs",
     "price": 408,
     "image": "img/palki-skalki/rome.jpg"
   },
   {
     "id": "ps03",
-    "name": "Пицца Фьюжн",
-    "description": "Сыр моцарелла, соус томатный, курица, пепперони, перец болгарский, томаты, лук красный, соус бургер, лук зеленый",
+    "name": "Pizza Fusion",
+    "description": "Mozzarella cheese, tomato sauce, chicken, pepperoni, bell pepper, tomatoes, red onion, burger sauce, green onion",
     "price": 499,
     "image": "img/palki-skalki/fusion.jpg"
   },
   {
     "id": "ps04",
-    "name": "Эби удон",
-    "description": "Японский супчик на мисо бульоне с добавлением яйца, тигровой креветки, лапши, шампиньонов и зеленого лучка.",
+    "name": "Ebi udon",
+    "description": "Japanese soup with miso broth with egg, tiger shrimp, noodles, mushrooms and green onion",
     "price": 319,
     "image": "img/palki-skalki/udon.jpg"
   },
   {
     "id": "ps05",
-    "name": "Чизбургер",
-    "description": "Мясная котлета, салат Айсберг, Шеф-соус, помидоры, корнишоны, сыр Чеддер, соус Барбекю",
+    "name": "Cheeseburger",
+    "description": "Meat cutlet, Iceberg lettuce, Chef sauce, tomatoes, gherkins, Cheddar cheese, BBQ sauce",
     "price": 358,
     "image": "img/palki-skalki/cheeseburger.jpg"
   },
   {
     "id": "ps06",
-    "name": "Буррито с курицей",
-    "description": "Сыр, помидор, цыпленок, перец сладкий, лук, салат, яичный блинчик, соус сырный, тортилья, кетчуп",
+    "name": "Chicken burrito",
+    "description": "Cheese, tomato, chicken, sweet pepper, onion, lettuce, egg pancake, cheese sauce, tortilla, ketchup",
     "price": 356,
     "image": "img/palki-skalki/burrito.jpg"
   }
