@@ -73,7 +73,7 @@ function downloadCart() {
 const getData = async function(url) {
   const response = await fetch(url);
   if(!response.ok) {
-    throw new Error(`Ошибка по адресу ${url}, статус  ошибки ${response.status}!`);
+    throw new Error(`Error at addres ${url}, error status ${response.status}!`);
   }
   return await response.json();
 }
@@ -183,13 +183,13 @@ function createCardRestaurant({
 						<div class="card-text">
 							<div class="card-heading">
 								<h3 class="card-title">${name}</h3>
-								<span class="card-tag tag">${timeOfDelivery} мин</span>
+								<span class="card-tag tag">${timeOfDelivery} min</span>
 							</div>
 							<div class="card-info">
 								<div class="rating">
 									${stars}
 								</div>
-								<div class="price">От ${price} ₽</div>
+								<div class="price">From ${price} ₽</div>
 								<div class="category">${kitchen}</div>
 							</div>
 						</div>
@@ -215,7 +215,7 @@ function createCardGood({ description, image, name, price, id }) {
         </div>
         <div class="card-buttons">
           <button class="button button-primary button-add-cart">
-            <span class="button-card-text">В корзину</span>
+            <span class="button-card-text">Add to Cart</span>
             <span class="button-cart-svg"></span>
           </button>
           <strong class="card-price card-price-bold">${price} ₽</strong>
@@ -245,7 +245,7 @@ function openGoods(event) {
 
       restaurantTitle.textContent = name;
       restaurantRating.textContent = stars;
-      restaurantPrice.textContent = `От ${price} ₽`;
+      restaurantPrice.textContent = `From ${price} ₽`;
       restaurantCategory.textContent = kitchen;
 
       getData(`./db/${restaurant.products}`).then(function(data){
@@ -385,10 +385,10 @@ buttonClearCart.addEventListener('click', () => {
               restaurants.classList.add('hide');
               menu.classList.remove('hide');
         
-              restaurantTitle.textContent = 'Результат поиска';
+              restaurantTitle.textContent = 'Search result';
               restaurantRating.textContent = '';
               restaurantPrice.textContent = '';
-              restaurantCategory.textContent = 'Разная кухня';
+              restaurantCategory.textContent = 'Mixed cuisine';
 
               resultSearch.forEach(createCardGood);
             })  
